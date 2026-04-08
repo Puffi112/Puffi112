@@ -1,5 +1,3 @@
-hi, im a solana dev
+Solana Dev
 
-I am currently working on a full 
-all in one solana trading app
-
+#vibecodingisgoyslob
